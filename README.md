@@ -16,7 +16,7 @@ I spend most of my time building and operating distributed microservices on Kube
 ## Tech Stack
 
 **Languages:**
-`Go` `TypeScript` `JavaScript` `Node.js` `Python` `Swift` `C#` `SQL` `Solidity`
+`Go` `TypeScript` `JavaScript` `Python`
 
 **Backend Frameworks:**
 `NestJS` `Express.js` `Gin`
