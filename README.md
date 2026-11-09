@@ -1,3 +1,15 @@
+```text
+      .        *            .           *
+  *        .        /\          .
+       .           /  \              *       .
+   .              | () |      .
+         *        | () |            .
+    .            /|    |\     *            *
+           .    /_|____|_\          .
+      *            /  \       .        .
+   .       .      '    '            *
+```
+
 ## Ryan Cocuzzo
 
 Software engineer in NYC. I work at [GovDash](https://govdash.com). Before that I spent a few years on platform infrastructure at IBM Quantum: Kubernetes, CI/CD, and keeping services up.
